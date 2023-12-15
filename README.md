@@ -1,8 +1,7 @@
 # Sinesa
 ## Proyecto Simulacion Cine en Java
 ---
-
-Este es mi proyecto de *Java* referente al *Gestor y Simulación de un Cine*. Las clases que lo componen son las siguientes:
+Este vs a ser mi proyecto de *Java* referente al *Gestor y Simulación de un Cine*. Las clases que lo componen son las siguientes:
 ---
 - Cliente.java
 - GestorDePagos.java
